@@ -8,27 +8,30 @@ We produce a complied version of Matconvnet-1.0-beta24 in Windows10, CUDA9.0, GT
 
 ### Blind Deblur ###
 
-|<span align="left"><img src="images_blur/manmade_03_kernel_04.png" alt="" width="800"/></span>|
-<span align="right"><img src="results/manmade_03_kernel_04_mFIMA_Blind_Deblur.png" alt="" width="800"/></span>|
+|<span align="left"><img src="images_blur/manmade_03_kernel_04.png" alt="" /></span>|
+<span align="right"><img src="results/manmade_03_kernel_04_mFIMA_Blind_Deblur.png" alt=""/></span>|
 |:----------:|:-------------:|
 |  **Input**  | **Ouput** |
 
-<span align="center"><img src="results/manmade_03_kernel_04_mFIMA_Blind_Deblur_K.png" alt="" width="75"/></span>
+|<span align="center"><img src="results/manmade_03_kernel_04_mFIMA_Blind_Deblur_K.png" alt=""/></span>|
+<span align="center"><img src="images_blur/kernel_04.png" alt=""/></span>
+|:----------:|:-------------:|
+|  **GT Kernel: size = 75**  | **Our Estimated Kernel** |
 
 ### Nonblind Deblur ###
-|<span align="left"><img src="results/manmade_03_iFIMA_Nonblind_Blur_In.png" alt="" width="450"/></span>|
-<span align="right"><img src="results/manmade_03_iFIMA_Nonblind_Deblur.png" alt="" width="410"/></span>|
+|<span align="left"><img src="results/manmade_03_iFIMA_Nonblind_Blur_In.png" alt=""/></span>|
+<span align="right"><img src="results/manmade_03_iFIMA_Nonblind_Deblur.png" alt=""/></span>|
 |:----------:|:-------------:|
 |  **Input**  | **Ouput** |
 
 
 ### Derain ###
-|<span align="left"><img src="images_rain/real_1.jpg" alt="" width="400"/></span>|
-<span align="right"><img src="results/real_1_mFIMA_Derain.png" alt="" width="400"/></span>|
+|<span align="left"><img src="images_rain/real_1.jpg" alt=""/></span>|
+<span align="right"><img src="results/real_1_mFIMA_Derain.png" alt=""/></span>|
 |:----------:|:-------------:|
 |  **Input**  | **Ouput** |
 
-|<span align="left"><img src="images_rain/real_2.jpg" alt="" width="400"/></span>|
-<span align="right"><img src="results/real_2_mFIMA_Derain.png" alt="" width="400"/></span>|
+|<span align="left"><img src="images_rain/real_2.jpg" alt="" /></span>|
+<span align="right"><img src="results/real_2_mFIMA_Derain.png" alt="" /></span>|
 |:----------:|:-------------:|
 |  **Input**  | **Ouput** |
