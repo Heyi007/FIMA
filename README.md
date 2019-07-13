@@ -1,10 +1,23 @@
 # FIMA
-On the Convergence of Learning-based Iterative Methods for Nonconvex Inverse Problems (TPAMI 2019)
+### On the Convergence of Learning-based Iterative Methods for Nonconvex Inverse Problems (TPAMI 2019) ###
+If you find this code is useful, please cite our paper:
+% @article{liu2019convergence,
+%   title={On the convergence of learning-based iterative methods for nonconvex inverse problems},
+%   author={Liu, Risheng and Cheng, Shichao and He, Yi and Fan, Xin and Lin, Zhouchen and Luo, Zhongxuan},
+%   journal={IEEE transactions on pattern analysis and machine intelligence},
+%   year={2019},
+%   publisher={IEEE}
+% }
 
 ### Dependency ###
 ### <a href  = "https://github.com/vlfeat/matconvnet"> Matconvnet-1.0-beta24</a> ###
 
-We produce a complied version of Matconvnet-1.0-beta24 in Windows10, CUDA9.0, GTX TITAN X, but in most cases, you need to recomplie in you own machine.
+We provide a compiled version of Matconvnet-1.0-beta24 <a href = "#">here</a> in Windows10, CUDA9.0, GTX TITAN X, but in most cases, you need to recompile it in you own machine with vl_compilenn() function.
+
+### Usage ###
+Make sure your Matconvnet is compiled and its reference path is set correctly.
+
+Simplely run Blind_Deblur.m, Nonblind_Deblur.m or Derain in Matlab, you can see the results shown below. It's quite easy!
 
 ### Blind Deblur ###
 
@@ -13,8 +26,9 @@ We produce a complied version of Matconvnet-1.0-beta24 in Windows10, CUDA9.0, GT
 |:----------:|:-------------:|
 |  **Input**  | **Ouput** |
 
+|<span align="center"><img src="images_blur/kernel_04.png" alt=""/></span>
 |<span align="center"><img src="results/manmade_03_kernel_04_mFIMA_Blind_Deblur_K.png" alt=""/></span>|
-<span align="center"><img src="images_blur/kernel_04.png" alt=""/></span>
+
 |:----------:|:-------------:|
 |  **GT Kernel: size = 75**  | **Our Estimated Kernel** |
 
