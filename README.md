@@ -18,7 +18,7 @@ We provide a compiled version of Matconvnet-1.0-beta24 <a href = "#">here</a> in
 ### Usage ###
 Make sure your Matconvnet is compiled and its reference path is set correctly.
 
-Simplely run Blind_Deblur.m, Nonblind_Deblur.m or Derain in Matlab, you can see the results shown below. It's quite easy!
+Simplely run Blind_Deblur.m, Nonblind_Deblur.m or Derain.m in Matlab, you can see the results shown below. It's quite easy!
 
 ### Blind Deblur ###
 
