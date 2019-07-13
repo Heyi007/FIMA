@@ -25,7 +25,7 @@ Simplely run Blind_Deblur.m, Nonblind_Deblur.m or Derain.m in Matlab, you can se
 |<span align="left"><img src="images_blur/manmade_03_kernel_04.png" alt="" /></span>|
 <span align="right"><img src="results/manmade_03_kernel_04_mFIMA_Blind_Deblur.png" alt=""/></span>|
 |:----------:|:-------------:|
-|  **Input**  | **Ouput** |
+|  **Input**  | **Output** |
 
 
 |<span align="left"><img src="images_blur/kernel_04.png" alt="" /></span>|
@@ -38,16 +38,16 @@ Simplely run Blind_Deblur.m, Nonblind_Deblur.m or Derain.m in Matlab, you can se
 |<span align="left"><img src="results/manmade_03_iFIMA_Nonblind_Blur_In.png" alt=""/></span>|
 <span align="right"><img src="results/manmade_03_iFIMA_Nonblind_Deblur.png" alt=""/></span>|
 |:----------:|:-------------:|
-|  **Input**  | **Ouput** |
+|  **Input**  | **Output** |
 
 
 ### Derain ###
 |<span align="left"><img src="images_rain/real_1.jpg" alt=""/></span>|
 <span align="right"><img src="results/real_1_mFIMA_Derain.png" alt=""/></span>|
 |:----------:|:-------------:|
-|  **Input**  | **Ouput** |
+|  **Input**  | **Output** |
 
 |<span align="left"><img src="images_rain/real_2.jpg" alt="" /></span>|
 <span align="right"><img src="results/real_2_mFIMA_Derain.png" alt="" /></span>|
 |:----------:|:-------------:|
-|  **Input**  | **Ouput** | 
+|  **Input**  | **Output** | 
