@@ -13,6 +13,12 @@ We produce a complied version of Matconvnet-1.0-beta24 in Windows10, CUDA9.0, GT
 | ：-： | ：-： |
 | Input  |  Ouput |
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 name | 111 | 222 | 333 | 444
 - | :-: | :-: | :-: | -:
 aaa | bbb | ccc | ddd | eee| 
