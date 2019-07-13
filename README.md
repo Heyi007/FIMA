@@ -29,7 +29,7 @@ Simplely run Blind_Deblur.m, Nonblind_Deblur.m or Derain.m in Matlab, you can se
 
 
 |<span align="left"><img src="images_blur/kernel_04.png" alt="" /></span>|
-<span align="right"><img src="results/manmade_03_kernel_04_mFIMA_Blind_Deblur_K.png" alt=""/></span>|
+<span align="right"><img src="results/manmade_03_kernel_04_mFIMA_Blind_Deblur_K_.png" alt=""/></span>|
 |:----------:|:-------------:|
 |  **GT Kernel: size = 75**  | **Our Estimated Kernel** |
 
