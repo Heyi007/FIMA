@@ -8,10 +8,10 @@ We produce a complied version of Matconvnet-1.0-beta24 in Windows10, CUDA9.0, GT
 
 ### Blind Deblur ###
 
-<span align="left"><img src="images_blur/manmade_03_kernel_04.png" alt="" width="410"/></span>
+<span align="left"><img src="images_blur/manmade_03_kernel_04.png" alt="" width="410"/></span> |
 <span align="right"><img src="results/manmade_03_kernel_04_mFIMA_Blind_Deblur.png" alt="" width="410"/></span>
-
-Input  &ensp;&ensp;&ensp;&ensp;&ensp;   Ouput
+：-：|：-：
+Input | Ouput
 
 <span align="center"><img src="results/manmade_03_kernel_04_mFIMA_Blind_Deblur_K.png" alt="" width="75"/></span>
 
