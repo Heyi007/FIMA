@@ -48,4 +48,4 @@ Simplely run Blind_Deblur.m, Nonblind_Deblur.m or Derain in Matlab, you can see 
 |<span align="left"><img src="images_rain/real_2.jpg" alt="" /></span>|
 <span align="right"><img src="results/real_2_mFIMA_Derain.png" alt="" /></span>|
 |:----------:|:-------------:|
-|  **Input**  | **Ouput** |
+|  **Input**  | **Ouput** | 
