@@ -13,7 +13,7 @@ If you find this code is useful, please cite our paper:
 ### Dependency ###
 ### <a href  = "https://github.com/vlfeat/matconvnet"> Matconvnet-1.0-beta24</a> ###
 
-We provide a compiled Matconvnet-1.0-beta24 <a href = "#">here</a> in Windows10, CUDA9.0, GTX TITAN X, but in most cases, you need to recompile it in you own machine with vl_compilenn() function. Other version of Matconvnet may also work.
+We provide a compiled Matconvnet-1.0-beta24 in Windows10, CUDA9.0, GTX TITAN X, but in most cases, you need to recompile it in you own machine with vl_compilenn() function. Other version of Matconvnet may also work.
 
 ### Usage ###
 Make sure your Matconvnet is compiled and its reference path is set correctly.
